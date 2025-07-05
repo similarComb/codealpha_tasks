@@ -1,4 +1,4 @@
-**“Hi everyone, I’m Aditya Mohanty, and today I'll present my Age Calculator web app, crafted with HTML, CSS, and JavaScript, featuring both light and dark themes.
+Hi everyone, I’m Aditya Mohanty, and today I'll present my Age Calculator web app, crafted with HTML, CSS, and JavaScript, featuring both light and dark themes.
 
 This app takes a user’s birthdate, calculates their exact age in years, months, and days, and instantly displays the result. The HTML structure is semantic and clean: it includes a birthdate input field, a calculate button, a result display, and a toggle switch for theme selection.
 
